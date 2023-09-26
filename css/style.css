@@ -21,8 +21,7 @@
   }
 }
 body {
-  font-family:'dosega'      ; 
-  src:url('font/DOSEGA.eot') format('eot'),url('font/DOSEGA.woff') format("woff"), url('font/DOSEGA.ttf') format('truetype'),url('font/DOSEGA.svg') format('svg');
+  font-family: 'Source Code Pro', monospace;
   background-color: #000;
   color: #ccc;
   font-size: 18px;
